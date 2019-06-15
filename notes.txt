@@ -1,0 +1,11 @@
+SmartBrain- Facerecognition App 
+Notes ;
+
+- created react ap
+-App.js
+-Nav.js
+-logo.js : tilt library (npmjs.com/package/react-tilt)
+-installed npm tilt package. 
+-included tilt in logo.js
+-included the css for tilt
+-reduced size width ht.
